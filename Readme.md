@@ -14,3 +14,5 @@ Programa que con base en tus datos personales te da el curp.
 Programa que te permite dibujar una seleccion de figuras en la terminal 
 ### Blackjack
 Programa que te permite jugar al blackjack.
+### Gato
+Programa que te permite jugar al gato.
