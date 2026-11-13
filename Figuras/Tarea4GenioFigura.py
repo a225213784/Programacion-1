@@ -3,7 +3,7 @@
 # Autores: Cristobal Ochoa Isibasi y Chrstian Alexandro Lopez (Grupo1)
 # Fecha: 10/29/2026
 # A lo largo del programa hay instancias de símbolo sin acento; cuando esto ocurra, a lo que nos estamos refiriendo es a la variable, no a la palabra.
-
+#ComentarioGit
 
 
 def DibujarMono(dim:int,simbolo:str) -> None:

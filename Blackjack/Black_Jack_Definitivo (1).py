@@ -2,6 +2,7 @@
 # Descripción: Programa que te permite jugar al blackjack, dándole uso a la librería CustomTkinter.
 # Autores: Cristobal Ochoa Isibasi y Christian Alexandro Lopez (Grupo1)
 # Fecha: 11/9/2026
+#Modificacion Git 
 
 
 #Se está utilizando CustomTkinter para crear la interfaz gráfica. (https://customtkinter.tomschimansky.com/)
