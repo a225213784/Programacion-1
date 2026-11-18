@@ -4,6 +4,8 @@
 # Fecha: 10/29/2026
 # A lo largo del programa hay instancias de símbolo sin acento; cuando esto ocurra, a lo que nos estamos refiriendo es a la variable, no a la palabra.
 #ComentarioGit
+#Modificacion github; Descripción: Programa que solicita 2 parámetros para posteriormente dibujar una variedad de figuras usando estos mismos.
+
 
 
 def DibujarMono(dim:int,simbolo:str) -> None:
