@@ -9,8 +9,7 @@ Este repositorio contiene los programas que desarrollé en programación 1, para
 |`NombreCalculadorIMCFinal.psc` |Programa que calcula tu índice de masa corporal.|
 |`CalificacionNecesariaParaAlcanzarC 1(1).psc` |Programa que dadas las calificaciones de los alumnos da el promedio grupal.|
 |`CurpCompletoFinal (2).psc` | Programa que con base en tus datos personales te da el curp.|
-|`Tarea4GenioFigura.py`|Programa que te permite dibujar una selección de figuras en la terminal
-| 
+|`Tarea4GenioFigura.py`|Programa que te permite dibujar una selección de figuras en la terminal| 
 |`Black_Jack_Definitivo(1).py`|Programa que te permite jugar al blackjack.|
 |`gato(prototipo).py`|Programa que te permite jugar al gato.|
 
