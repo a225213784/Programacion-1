@@ -21,6 +21,7 @@ Para poder jugar blackjack descargar el módulo customtkinter
 
 ## Como ejecutarlos 
 Para los programas con terminación psc: Entrar en PSeINT, abrirlos usando el explorador de archivos de pseint y usando el botón de correr(flechita verde) ejecutarlos.
+
 Para los programas con terminación py: Abrir la terminal de tu computadora y escribir el siguiente comando [python Raíz/NombreArchivo].
 
 
