@@ -67,7 +67,7 @@ Inserte el símbolo a evaluar, solo un símbolo y no puede ser un espacio : 0
       000  
      00000  
 
-![Ejecución del programa](Capturas\EjecucionFiguras.png)
+![Ejecución del programa](Capturas/EjecucionFiguras.png)
 
 ## Autores
 Cristobal Ochoa Isibasi   
